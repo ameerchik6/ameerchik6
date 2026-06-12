@@ -34,7 +34,6 @@
 </tr>
 </table>
 
----
 
 ## <div align="center"> GitHub Stats</div>
 
@@ -66,7 +65,6 @@
 </tr>
 </table>
 
----
 
 ## <div align="center"> Tech Stack</div>
 
