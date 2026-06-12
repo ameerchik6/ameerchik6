@@ -1,6 +1,9 @@
 <div align="center">
 
+<img src="./assets/header.gif" width="100%">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=32C6BD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey!+I'm+Amir+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%E2%9C%A8;Always+learning+something+new+%F0%9F%9A%80)
+
 </div>
 
 
@@ -40,7 +43,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&icon_color=32C6BD&text_color=c9d1d9&ring_color=32C6BD)
 
 </div>
 
@@ -50,14 +53,14 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9)
 
 </td>
 <td width="50%" align="center">
 
 ### Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ameerchik6&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
 
 
 </td>
@@ -99,7 +102,7 @@
 
 <div align="center">
 
-[![Amir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ameerchik6&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true)](https://github.com/ameerchik6)
+[![Amir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ameerchik6&bg_color=0d1117&color=32C6BD&line=32C6BD&point=ffffff&area=true&area_color=32C6BD&hide_border=true)](https://github.com/ameerchik6)
 
 </div>
 
@@ -118,8 +121,9 @@
 
 <div align="center">
 
-**Thank you for visiting!**
+<img src="./assets/footer.png" width="100%">
 
-<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%23263759" />
+
+<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%2332C6BD" />
 
 </div>
