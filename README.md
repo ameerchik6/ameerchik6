@@ -8,7 +8,7 @@
 
 ## <div align="center"> About Me</div>
 
-<table style="border: none; background: transparent;">
+<table align="center" style="border: none; background: transparent;">
 
 <td width="30%" style="border: none;">
 
