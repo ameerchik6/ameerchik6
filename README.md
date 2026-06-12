@@ -27,7 +27,7 @@
 ```
 
 </td>
-<td width="50%" style="border: none;">
+<td width="40%" style="border: none;">
 
 - Backend & Automation Developer
 - Building Telegram bots and web services
