@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**ameerchik6/ameerchik6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hey, I'm Ameer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Python+Developer+%F0%9F%90%8D;Backend+Engineer+%F0%9F%9A%80;Telegram+Bot+Developer+%F0%9F%A4%96;Open+Source+Enthusiast+%E2%9C%A8;Always+Building+Something+Cool+%F0%9F%94%A5" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ameerchik6&fontSize=50&animation=fadeIn&color=gradient"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Ameer
+username: ameerchik6
+role: Backend Developer
+location: Earth 🌍
+languages:
+  - Python
+  - JavaScript
+currently:
+  - Building Telegram Bots
+  - Automating Everything
+  - Learning DevOps
