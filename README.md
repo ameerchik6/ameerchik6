@@ -95,8 +95,6 @@
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -132,7 +130,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ameerchik6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ameerchik6@gmail.com)
 
-<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%2332C6BD" style="pointer-events: none;"/></br>
+<img src="https://api.visitorbadge.io/api/visitors?path=ameerchik6&label=Visitors&countColor=%2332C6BD" style="pointer-events: none;"/></br>
 </div>
 
 ---
