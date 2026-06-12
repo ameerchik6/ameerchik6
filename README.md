@@ -23,12 +23,9 @@
 ```
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-- Currently learning **AI**
-- Open source enthusiast
-- Linux power user
-- Building cool projects
+<img src="./assets/2.gif" width="100%">
 
 </td>
 </tr>
