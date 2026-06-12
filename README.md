@@ -21,7 +21,7 @@
 │  Name:      Amir             │
 │  Location:  UZ               │
 │  Role:      Developer        │
-│  OS:        Linux            │
+│  OS:        Windows          │
 │  Editor:    VS Code          │
 ╰──────────────────────────────╯
 ```
