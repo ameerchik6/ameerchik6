@@ -8,9 +8,12 @@
 
 ## <div align="center"> About Me</div>
 
+<div style="display: flex; align-items: center;">
+<div style="flex: 1;">
+
 <table style="border: none;">
 <tr>
-<td width="30%" style="border: none;">
+<td width="25%" style="border: none;">
 
 ```bash
 ╭──────────────────────────────╮
@@ -23,7 +26,7 @@
 ```
 
 </td>
-<td width="40%" style="border: none;">
+<td width="50%" style="border: none;">
 
 - Currently learning **AI**
 - Open source enthusiast
@@ -31,13 +34,16 @@
 - Building cool projects
 
 </td>
-<td width="30%" align="center" style="border: none;">
-
-<img src="./assets/2.gif" width="100%">
-
-</td>
 </tr>
 </table>
+
+</div>
+<div style="flex: 0 0 auto;">
+
+<img src="./assets/2.gif" width="200">
+
+</div>
+</div>
 
 
 ## <div align="center"> GitHub Stats</div>
