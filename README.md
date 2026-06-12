@@ -14,7 +14,7 @@
 
 <table style="border: none;">
 <tr>
-<td width="50%" style="border: none;">
+<td width="30%" style="border: none;">
 
 ```bash
 ╭──────────────────────────────╮
@@ -49,45 +49,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-## <div align="center"> About Me</div>
-```yaml
-name: Amir
-located_in: Uzbekistan
-current_focus:
-  - AI Development
-  - Backend Engineering
-  - Telegram Ecosystem
-  - DevOps
-
-tech_stack:
-  backend:
-    - Python
-    - Flask
-    - Django
-    - PostgreSQL
-  devops:
-    - Docker
-    - Linux
-    - Git
-    - VPS
-  automation:
-    - Telegram Bots
-    - APIs
-    - Web Scraping
-
-currently_learning:
-  - AI Agents
-  - LLM Integrations
-  - Modern Web Technologies
-
-philosophy:
-  - Build
-  - Automate
-  - Improve
-  - Repeat
-```
 </div>
 
 
