@@ -23,7 +23,7 @@
 ```
 
 </td>
-<td width="50%" align="center">
+<td width="30%" align="center">
 
 <img src="./assets/2.gif" width="100%">
 
