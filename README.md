@@ -120,9 +120,9 @@
 
 <div align="center">
 
+<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%2332C6BD" style="pointer-events: none;"/></br>
 <img src="./assets/footer.png" width="100%">
 
 
-<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%2332C6BD" style="pointer-events: none;"/>
 
 </div>
