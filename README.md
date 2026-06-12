@@ -29,10 +29,13 @@
 </td>
 <td width="50%" style="border: none;">
 
-- Currently learning **AI**
+- Backend & Automation Developer
+- Building Telegram bots and web services
+- Working with Python, Docker, PostgreSQL & Linux
+- Exploring AI-powered development tools
+- Self-hosting apps on VPS servers
 - Open source enthusiast
-- Linux power user
-- Building cool projects
+- Always optimizing, learning and shipping
 
 </td>
 </tr>
@@ -47,7 +50,42 @@
 </tr>
 </table>
 </div>
+```yaml
+name: Amir
+located_in: Uzbekistan
+current_focus:
+  - AI Development
+  - Backend Engineering
+  - Telegram Ecosystem
+  - DevOps
 
+tech_stack:
+  backend:
+    - Python
+    - Flask
+    - Django
+    - PostgreSQL
+  devops:
+    - Docker
+    - Linux
+    - Git
+    - VPS
+  automation:
+    - Telegram Bots
+    - APIs
+    - Web Scraping
+
+currently_learning:
+  - AI Agents
+  - LLM Integrations
+  - Modern Web Technologies
+
+philosophy:
+  - Build
+  - Automate
+  - Improve
+  - Repeat
+```
 
 ## <div align="center"> GitHub Stats</div>
 
