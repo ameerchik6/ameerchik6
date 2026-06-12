@@ -9,11 +9,8 @@
 ## <div align="center"> About Me</div>
 
 <table style="border: none; background: transparent;">
-<tr style="border: none;">
 <td style="border: none; background: transparent;">
 
-<table style="border: none;">
-<tr>
 <td width="30%" style="border: none;">
 
 ```bash
