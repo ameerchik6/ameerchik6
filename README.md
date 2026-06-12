@@ -8,9 +8,9 @@
 
 ## <div align="center"> About Me</div>
 
-<table align="center" style="border: none; background: transparent;">
+<table align="center" style="background: transparent;">
 
-<td width="30%" style="border: none;">
+<td width="30%">
 
 ```bash
 ╭──────────────────────────────╮
@@ -23,7 +23,7 @@
 ```
 
 </td>
-<td width="40%" style="border: none;">
+<td width="40%">
 
 - Backend & Automation Developer
 - Building Telegram bots and web services
@@ -76,9 +76,11 @@
 
 ## <div align="center"> Tech Stack</div>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-**Languages:**
+# Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -86,12 +88,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Frameworks:**
+</td>
+<td align="center" width="33%">
+
+# Frameworks
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Tools:**
+</td>
+<td align="center" width="33%">
+
+# Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -99,7 +109,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
