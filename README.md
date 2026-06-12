@@ -114,13 +114,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ameerchik6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ameerchik6@gmail.com)
 
+<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%2332C6BD" style="pointer-events: none;"/></br>
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%2332C6BD" style="pointer-events: none;"/></br>
 <img src="./assets/footer.png" width="100%">
 
 
