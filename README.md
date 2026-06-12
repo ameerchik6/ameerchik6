@@ -43,11 +43,11 @@
 
 
 
-## <div align="center"> GitHub Stats</div>
+## <div align="center" valign="top"> GitHub Stats</div>
 
 
 
-<div align="center">
+<div align="center" valign="top">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&icon_color=32C6BD&text_color=c9d1d9&ring_color=32C6BD)
 
@@ -55,14 +55,14 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## Streak Stats
 
