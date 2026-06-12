@@ -50,14 +50,14 @@
 <tr>
 <td width="50%" align="center">
 
-### Top Languages
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9)
 
 </td>
 <td width="50%" align="center">
 
-### Streak Stats
+## Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
 
