@@ -111,7 +111,6 @@
 </tr>
 </table>
 
----
 
 ## <div align="center"> Activity Graph</div>
 
@@ -121,7 +120,6 @@
 
 </div>
 
----
 
 ## <div align="center"> Connect With Me</div>
 
