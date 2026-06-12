@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="30%">
 
 ```bash
 ╭──────────────────────────────╮
@@ -21,6 +21,14 @@
 │  Editor:    VS Code          │
 ╰──────────────────────────────╯
 ```
+
+</td>
+<td width="40%">
+
+- Currently learning **AI**
+- Open source enthusiast
+- Linux power user
+- Building cool projects
 
 </td>
 <td width="30%" align="center">
