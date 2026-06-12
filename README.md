@@ -133,7 +133,6 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=ameerchik6&label=Visitors&countColor=%2332C6BD" style="pointer-events: none;"/></br>
 </div>
 
----
 
 <div align="center">
 
