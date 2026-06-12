@@ -4,7 +4,7 @@
 </div>
 
 
-## <div align="center"> About Me</div>
+## <div align="center"> About Me
 
 <table>
 <tr>
@@ -31,7 +31,7 @@
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## <div align="center"> GitHub Stats</div>
