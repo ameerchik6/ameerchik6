@@ -8,12 +8,13 @@
 
 ## <div align="center"> About Me</div>
 
-<div style="display: flex; align-items: center;">
-<div style="flex: 1;">
+<table style="border: none; background: transparent;">
+<tr style="border: none;">
+<td style="border: none; background: transparent;">
 
 <table style="border: none;">
 <tr>
-<td width="25%" style="border: none;">
+<td width="50%" style="border: none;">
 
 ```bash
 ╭──────────────────────────────╮
@@ -37,7 +38,14 @@
 </tr>
 </table>
 
-</div>
+</td>
+<td style="border: none; background: transparent;">
+
+<img src="./assets/2.gif" width="200">
+
+</td>
+</tr>
+</table>
 <div style="flex: 0 0 auto;">
 
 <img src="./assets/2.gif" width="200">
