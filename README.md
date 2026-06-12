@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)](https://github.com/ameerchik6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)
 
 </div>
 
@@ -50,14 +50,15 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/ameerchik6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </td>
 <td width="50%" align="center">
 
 ### Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ameerchik6&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ameerchik6&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
+
 
 </td>
 </tr>
