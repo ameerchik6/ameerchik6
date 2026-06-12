@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.gif" width="100%">
+<img src="./assets/header.gif" width="100%" style="pointer-events: none;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=32C6BD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey!+I'm+Amir+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%E2%9C%A8;Always+learning+something+new+%F0%9F%9A%80)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=32C6BD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=130&lines=%F0%9F%91%8B+Hey!+I'm+Amir+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%E2%9C%A8;Always+learning+something+new+%F0%9F%9A%80" />
 
 </div>
 
@@ -124,6 +124,6 @@
 <img src="./assets/footer.png" width="100%">
 
 
-<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%2332C6BD" />
+<img src="https://api.visitorbadge.io/api/combined?path=ameerchik6&label=Visitors&countColor=%2332C6BD" style="pointer-events: none;"/>
 
 </div>
