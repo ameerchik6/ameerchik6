@@ -42,12 +42,6 @@
 </table>
 
 </td>
-<td style="border: none; background: transparent;">
-
-<img src="./assets/2.gif" width="200">
-
-</td>
-</tr>
 </table>
 </div>
 
