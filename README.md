@@ -46,11 +46,6 @@
 </td>
 </tr>
 </table>
-<div style="flex: 0 0 auto;">
-
-<img src="./assets/2.gif" width="200">
-
-</div>
 </div>
 
 
