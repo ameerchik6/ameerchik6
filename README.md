@@ -50,6 +50,8 @@
 </tr>
 </table>
 </div>
+
+## <div align="center"> About Me</div>
 ```yaml
 name: Amir
 located_in: Uzbekistan
@@ -86,6 +88,9 @@ philosophy:
   - Improve
   - Repeat
 ```
+</div>
+
+
 
 ## <div align="center"> GitHub Stats</div>
 
