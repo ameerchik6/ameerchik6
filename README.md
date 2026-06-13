@@ -8,27 +8,41 @@
 
 ## <div align="center">About Me</div>
 
-<div align="center">
+```console
+amir@github:~$ whoami
+Amir
 
-```bash
-╭─────────────────────────╮
-│  Name:      Amir        │
-│  Location:  UZ          │
-│  Role:      Developer   │
-│  OS:        Windows     │
-│  Editor:    VS Code     │
-╰─────────────────────────╯
+amir@github:~$ cat profile.txt
+
+Name      : Amir
+Location  : Uzbekistan
+Role      : Developer
+OS        : Windows
+Editor    : VS Code
+
+amir@github:~$ skills
+
+> Python
+> JavaScript
+> TypeScript
+> Docker
+> PostgreSQL
+> Linux
+
+amir@github:~$ interests
+
+> Backend Development
+> Telegram Bots
+> Automation
+> Self Hosting
+> AI Tools
+
+amir@github:~$ status
+
+[✓] Learning
+[✓] Building
+[✓] Shipping
 ```
-
-</div>
-
-- Backend & Automation Developer
-- Building Telegram bots and web services
-- Working with Python, Docker, PostgreSQL & Linux
-- Exploring AI-powered development tools
-- Self-hosting apps on VPS servers
-- Open source enthusiast
-- Always optimizing, learning and shipping
 
 
 
