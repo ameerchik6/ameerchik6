@@ -49,7 +49,7 @@
 
 <div align="center" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&icon_color=32C6BD&text_color=c9d1d9&ring_color=32C6BD)
+<img src="https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&icon_color=32C6BD&text_color=c9d1d9&ring_color=32C6BD" alt="GitHub Stats">
 
 </div>
 
@@ -59,14 +59,14 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9" alt="Top Langs">
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ## Streak Stats
  
-![GitHub Streak](https://streak-stats.demolab.com?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
+<img src="https://streak-stats.demolab.com?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak">
 
 
 </td>
