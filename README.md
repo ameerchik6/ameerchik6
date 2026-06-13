@@ -49,38 +49,21 @@
 
 <div align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&icon_color=32C6BD&text_color=c9d1d9&ring_color=32C6BD" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=ameerchik6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&icon_color=32C6BD&text_color=c9d1d9&ring_color=32C6BD" alt="GitHub Stats" width="100%">
 
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-## Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9" alt="Top Langs">
-
-</td>
-<td width="50%" align="center" valign="top">
-
-## Streak Stats
- 
-<img src="https://streak-stats.demolab.com?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak">
-
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9" alt="Top Langs" width="49%">
+  <img src="https://streak-stats.demolab.com?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="49%">
+</p>
 
 
 ## <div align="center"> Tech Stack</div>
 
-<table>
-<tr>
-<td align="center" width="33%">
+<p align="center">
 
-# Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -88,18 +71,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-</td>
-<td align="center" width="33%">
-
-# Frameworks
+**Frameworks**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-</td>
-<td align="center" width="33%">
-
-# Tools
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -107,9 +84,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</td>
-</tr>
-</table>
+</p>
 
 
 ## <div align="center"> Activity Graph</div>
