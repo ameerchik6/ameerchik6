@@ -36,6 +36,12 @@ amir@github:~$ interests
 > Automation
 > Self Hosting
 > AI Tools
+> LightOS
+   ├── Based on HyperOS
+   ├── Performance Tweaks
+   ├── Debloating
+   ├── UI Improvements
+   └── Custom Features
 
 amir@github:~$ status
 
