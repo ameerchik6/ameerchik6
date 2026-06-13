@@ -6,11 +6,9 @@
 </div>
 
 
-## <div align="center"> About Me</div>
+## <div align="center">About Me</div>
 
-<table align="center" style="background: transparent;">
-
-<td width="30%">
+<div align="center">
 
 ```bash
 ╭─────────────────────────╮
@@ -22,8 +20,7 @@
 ╰─────────────────────────╯
 ```
 
-</td>
-<td width="40%">
+</div>
 
 - Backend & Automation Developer
 - Building Telegram bots and web services
@@ -32,14 +29,6 @@
 - Self-hosting apps on VPS servers
 - Open source enthusiast
 - Always optimizing, learning and shipping
-
-</td>
-</tr>
-</table>
-
-</td>
-</table>
-</div>
 
 
 
