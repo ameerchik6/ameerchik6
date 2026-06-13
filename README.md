@@ -13,13 +13,13 @@
 <td width="30%">
 
 ```bash
-╭──────────────────────────────╮
-│  Name:      Amir             │
-│  Location:  UZ               │
-│  Role:      Developer        │
-│  OS:        Windows          │
-│  Editor:    VS Code          │
-╰──────────────────────────────╯
+╭─────────────────────────╮
+│  Name:      Amir        │
+│  Location:  UZ          │
+│  Role:      Developer   │
+│  OS:        Windows     │
+│  Editor:    VS Code     │
+╰─────────────────────────╯
 ```
 
 </td>
