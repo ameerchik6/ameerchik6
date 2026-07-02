@@ -58,12 +58,12 @@ amir@github:~$ status
 
 <div align="center" valign="top">
 
-<img src="https://github-stats-extended.vercel.app/api?username=ameerchik6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&icon_color=32C6BD&text_color=c9d1d9&ring_color=32C6BD" alt="GitHub Stats" width="100%">
+<img src="https://github-stats-extended-frontend-woad.vercel.app/api?username=ameerchik6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&icon_color=32C6BD&text_color=c9d1d9&ring_color=32C6BD" alt="GitHub Stats" width="100%">
 
 </div>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9" alt="Top Langs" width="49%">
+  <img src="https://github-stats-extended-frontend-woad.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9" alt="Top Langs" width="49%">
   <img src="https://streak-stats.demolab.com?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="49%">
 </p>
 
