@@ -64,7 +64,7 @@ amir@github:~$ status
 
 <p align="center">
   <img src="https://github-stats-extended-frontend-woad.vercel.app/api/top-langs/?username=ameerchik6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=32C6BD&text_color=c9d1d9" alt="Top Langs" width="49%">
-  <img src="https://github-readme-streak-stats-fi0nqxdtd-amirutkirov99s-projects.vercel.app?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-streak-stats-tawny-ten.vercel.app?user=ameerchik6&theme=tokyonight&hide_border=true&background=0d1117&ring=32C6BD&fire=32C6BD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="49%">
 </p>
 
 
